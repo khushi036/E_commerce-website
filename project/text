@@ -1,0 +1,9 @@
+Backend Edge Functions:
+
+Products - Fetch products with filtering by category, featured, bestseller, and pagination
+Categories - Retrieve all product categories
+Cart - Add, remove, update quantities, and retrieve cart items
+Wishlist - Add, remove, and retrieve wishlist items
+Orders - Create orders, retrieve order details, and update order status
+Send-Email - Send order confirmations and notifications
+Frontend API Layer:
